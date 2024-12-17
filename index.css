@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+#myChart {
+    border: 2px solid black;
+    background-color: aliceblue;
+}
+
+p {
+    font-size: 6px;
+    transition-duration: 2s;
+}
+
+p:hover {
+    font-size: 16px;
+    color: red;
+}
+
+footer {
+    width: 100%;
+    height: 20px;
+    padding: 10px;
+    background-color: rgb(255, 200, 200);
+    bottom: 0;
+    text-align: center;
+}
